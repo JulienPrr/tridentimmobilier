@@ -1,0 +1,54 @@
+.container {
+    background-color: white;
+    border-top: 10px solid #ffc60a;
+    padding-left: 25em;
+    margin: 0 auto;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.container .gauche {
+    float: left;
+    width: 40%;
+    height: 40%;
+}
+
+.container .right {
+    width: 40%;
+    float: right;
+
+}
+
+.container h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    color: rgb(0, 0, 0);
+    padding: 0;
+}
+
+.container a {
+    text-decoration: none;
+}
+
+.container img {
+    width: 5%;
+}
+
+.container .contact .h3 {
+    position: relative;
+    float: right;
+}
+
+.contact t {
+    padding-left: 2em;
+    padding-bottom: 2em;
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 2em;
+}
+
+.contact {
+    margin: 0 auto;
+    display: flex;
+}
